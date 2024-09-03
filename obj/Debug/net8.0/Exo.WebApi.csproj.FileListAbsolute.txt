@@ -276,3 +276,4 @@ D:\Documentos do HD\Curso FullStack SENAI\Desenvolvimento de API\MATERIAL-PARA-O
 D:\Documentos do HD\Curso FullStack SENAI\Desenvolvimento de API\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.pdb
 D:\Documentos do HD\Curso FullStack SENAI\Desenvolvimento de API\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.genruntimeconfig.cache
 D:\Documentos do HD\Curso FullStack SENAI\Desenvolvimento de API\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\ref\Exo.WebApi.dll
+D:\Documentos do HD\Curso FullStack SENAI\Desenvolvimento de API\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.sourcelink.json
